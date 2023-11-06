@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Nav-bar{
+    background-color: white;
+    display: flex;
+    height: 100px;
+    font-family: sans-serif;
+    font-size: 8px;
+    align-items:center;
+    padding-left: 250px;
+    padding-right: 350px;
+    justify-content: space-around;
+    
+}
+.sign-in-btn{
+    font-size: 18px;
+    background-color: #59BAF3;
+    border-radius: 50px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height:40px;
+    width: 100px;
+    padding: 10px;
+}
+/* Notice container */
+.notice-container{
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    box-shadow: 0.5px 0.5px 10px 0px rgba(142, 142, 142, 0.54);
+}
+.main-body-container{
+    
+    height: 80vh;
+    display: flex;
+    /* background-color: yellow; */
+  
+    font-family: sans-serif;
+}
+.paytm-cover-title{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paytm-desc{
+    padding-top: 20px;
+    width: 20vw;
+    /* background-color: #F5F5F5; */
+    font-size: 21pxs;
+    font-family: sans-serif;
+}
+.download-btn-div{
+    margin-left: 15vw;
+}
+.download-cta{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 80px;
+
+}
+.paytm-logo-main{
+    /* background-color: #59BAF3; */
+    width: 80px;
+}
+.paytm-logo-main{
+    margin-left: 15vw;
+    
+}
+.text-container{
+    /* background-color: #124B8A; */
+    margin-left: 15vw;
+    margin-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main-content-1{
+    margin-top: 150px;
+    width: 50vw;
+    
+}
+.img-paytmapp{
+    height:550px;
+    width: 550px;
+}
+.main-content-2{
+     width: 50vw;
+     display: flex;
+     justify-content: end;
+     
+     padding-top: 120px;
+}
+ 
+.ad-container-1{
+    background-color: #59BAF3;
+    padding-top: 50px;
+    height:30vh;
+}
+.ad-container-2{
+    background-color: #124B8A;
+    padding-top: 50px;
+    height:30vh;
+}
+.sub-head-ad{
+    font-size : 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 15vw;
+}
